@@ -1,4 +1,4 @@
----
+hyig---
 title: Texture painting
 description: Covers the process of associating PBR textures to rigid accessories in Blender.
 prev: /art/accessories/creating-rigid/modeling-setup
